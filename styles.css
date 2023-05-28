@@ -1,0 +1,18 @@
+.col1 {
+  background-color: lavender;
+  color: black;
+}
+
+.col2 {
+  background-color: lavenderblush;
+}
+
+.nested-col-1 {
+  background-color: lightsalmon;
+  color: black;
+}
+
+.nested-col-2 {
+  background-color: lavenderblush;
+  color: black;
+}
